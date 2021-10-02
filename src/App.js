@@ -9,7 +9,12 @@ function App() {
         <p>Welcome to my app! </p>
       </header>
       <footer>
-        <a href="/" target="_blank" class="githublink">
+        <a
+          href="https://github.com/yccjs/react-dictionary-app"
+          target="_blank"
+          class="githublink"
+          rel="noreferrer"
+        >
           Open-source code
         </a>
         by Yushiko Cloe Salvador
