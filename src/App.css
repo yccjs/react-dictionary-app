@@ -1,6 +1,7 @@
 .logo {
   display: block;
   margin: 0 auto;
+  max-width: 100px;
 }
 header, footer {
   text-align: center;

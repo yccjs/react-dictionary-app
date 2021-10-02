@@ -1,13 +1,15 @@
 import logo from "./logo.png";
+import DictionaryForm from "./DictionaryForm";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="logo" alt="dictionary icon" />
-        <p>Welcome to my app! </p>
+        <img src={logo} className="logo img-fluid" alt="dictionary icon" />
+        <p>What word do you want to look up? </p>
       </header>
+      <DictionaryForm/>
       <footer>
         <a
           href="https://github.com/yccjs/react-dictionary-app"
