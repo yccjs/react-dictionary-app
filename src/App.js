@@ -14,7 +14,7 @@ function App() {
         <a
           href="https://github.com/yccjs/react-dictionary-app"
           target="_blank"
-          class="githublink"
+          className="githublink"
           rel="noreferrer"
         >
           Open-source code
