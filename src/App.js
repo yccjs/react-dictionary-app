@@ -19,7 +19,7 @@ function App() {
         >
           Open-source code
         </a>
-        by Yushiko Cloe Salvador
+        <span> by Yushiko Cloe Salvador </span>
       </footer>
     </div>
   );
